@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0; 
+
+}
+body{
+    padding: 10px;
+}
+
+.container{
+    width: 50%;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+}
+#Sedans{
+    padding: 20px;
+    background-color: rgb(253, 162, 97);
+
+}
+#SUVs{
+    padding: 20px;
+    background-color: rgb(1, 190, 190);
+
+}
+#Luxury{
+    padding: 20px;
+    background-color: rgb(12, 104, 81);
+
+}
+.element{
+    width: 50%;
+    height: 90%;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 10px;
+    margin: 0px;
+    text-align: left;
+}
+#btn1{
+    margin-top: 100px;
+}
+#btn2{
+    margin-top: 50px;
+}
+#btn3{
+    margin-top: 120px;
+}
+.boton{
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    border-color: #fff;
+    border-radius: 50px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 12px;
+    margin-left: 70px;
+    text-decoration: none;
+
+}
+#boton1{
+    color: rgb(253, 162, 97);
+}
+#boton2{
+    color: rgb(1, 190, 190);
+}
+#boton3{
+    color: rgb(12, 104, 81);
+}
+.text{
+    margin-top: 20px;
+}
